@@ -1,0 +1,15 @@
+C:\Users\Maarifa 1\Desktop\net-core-basic\Csharp101\Converting\bin\Debug\net10.0\Converting.exe
+C:\Users\Maarifa 1\Desktop\net-core-basic\Csharp101\Converting\bin\Debug\net10.0\Converting.deps.json
+C:\Users\Maarifa 1\Desktop\net-core-basic\Csharp101\Converting\bin\Debug\net10.0\Converting.runtimeconfig.json
+C:\Users\Maarifa 1\Desktop\net-core-basic\Csharp101\Converting\bin\Debug\net10.0\Converting.dll
+C:\Users\Maarifa 1\Desktop\net-core-basic\Csharp101\Converting\bin\Debug\net10.0\Converting.pdb
+C:\Users\Maarifa 1\Desktop\net-core-basic\Csharp101\Converting\obj\Debug\net10.0\Converting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Maarifa 1\Desktop\net-core-basic\Csharp101\Converting\obj\Debug\net10.0\Converting.AssemblyInfoInputs.cache
+C:\Users\Maarifa 1\Desktop\net-core-basic\Csharp101\Converting\obj\Debug\net10.0\Converting.AssemblyInfo.cs
+C:\Users\Maarifa 1\Desktop\net-core-basic\Csharp101\Converting\obj\Debug\net10.0\Converting.csproj.CoreCompileInputs.cache
+C:\Users\Maarifa 1\Desktop\net-core-basic\Csharp101\Converting\obj\Debug\net10.0\Converting.sourcelink.json
+C:\Users\Maarifa 1\Desktop\net-core-basic\Csharp101\Converting\obj\Debug\net10.0\Converting.dll
+C:\Users\Maarifa 1\Desktop\net-core-basic\Csharp101\Converting\obj\Debug\net10.0\refint\Converting.dll
+C:\Users\Maarifa 1\Desktop\net-core-basic\Csharp101\Converting\obj\Debug\net10.0\Converting.pdb
+C:\Users\Maarifa 1\Desktop\net-core-basic\Csharp101\Converting\obj\Debug\net10.0\Converting.genruntimeconfig.cache
+C:\Users\Maarifa 1\Desktop\net-core-basic\Csharp101\Converting\obj\Debug\net10.0\ref\Converting.dll
