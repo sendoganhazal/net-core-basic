@@ -1,0 +1,15 @@
+C:\Users\Maarifa 1\Desktop\net-core-basic\Csharp101\CaseSwitch\bin\Debug\net10.0\CaseSwitch.exe
+C:\Users\Maarifa 1\Desktop\net-core-basic\Csharp101\CaseSwitch\bin\Debug\net10.0\CaseSwitch.deps.json
+C:\Users\Maarifa 1\Desktop\net-core-basic\Csharp101\CaseSwitch\bin\Debug\net10.0\CaseSwitch.runtimeconfig.json
+C:\Users\Maarifa 1\Desktop\net-core-basic\Csharp101\CaseSwitch\bin\Debug\net10.0\CaseSwitch.dll
+C:\Users\Maarifa 1\Desktop\net-core-basic\Csharp101\CaseSwitch\bin\Debug\net10.0\CaseSwitch.pdb
+C:\Users\Maarifa 1\Desktop\net-core-basic\Csharp101\CaseSwitch\obj\Debug\net10.0\CaseSwitch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Maarifa 1\Desktop\net-core-basic\Csharp101\CaseSwitch\obj\Debug\net10.0\CaseSwitch.AssemblyInfoInputs.cache
+C:\Users\Maarifa 1\Desktop\net-core-basic\Csharp101\CaseSwitch\obj\Debug\net10.0\CaseSwitch.AssemblyInfo.cs
+C:\Users\Maarifa 1\Desktop\net-core-basic\Csharp101\CaseSwitch\obj\Debug\net10.0\CaseSwitch.csproj.CoreCompileInputs.cache
+C:\Users\Maarifa 1\Desktop\net-core-basic\Csharp101\CaseSwitch\obj\Debug\net10.0\CaseSwitch.sourcelink.json
+C:\Users\Maarifa 1\Desktop\net-core-basic\Csharp101\CaseSwitch\obj\Debug\net10.0\CaseSwitch.dll
+C:\Users\Maarifa 1\Desktop\net-core-basic\Csharp101\CaseSwitch\obj\Debug\net10.0\refint\CaseSwitch.dll
+C:\Users\Maarifa 1\Desktop\net-core-basic\Csharp101\CaseSwitch\obj\Debug\net10.0\CaseSwitch.pdb
+C:\Users\Maarifa 1\Desktop\net-core-basic\Csharp101\CaseSwitch\obj\Debug\net10.0\CaseSwitch.genruntimeconfig.cache
+C:\Users\Maarifa 1\Desktop\net-core-basic\Csharp101\CaseSwitch\obj\Debug\net10.0\ref\CaseSwitch.dll

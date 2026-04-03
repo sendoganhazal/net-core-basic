@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Variables
+namespace IfElseIf
 {
     class Program
     {
