@@ -12,12 +12,6 @@ namespace Arrays
             Console.WriteLine("***** Array Tanımlama *****");
             DefineArray();
 
-
-            //** Array Sınıfı Metotları
-            Console.WriteLine("***** Array Sınıfı Metotları *****");
-
-            MethodsArray();
-
         }
         public static void DefineArray()
         {
@@ -54,10 +48,6 @@ namespace Arrays
             }
 
             Console.WriteLine("Ortalama:" + "" + toplam / diziUzunluk);
-        }
-        public static void MethodsArray()
-        {
-            
         }
     }
 }
