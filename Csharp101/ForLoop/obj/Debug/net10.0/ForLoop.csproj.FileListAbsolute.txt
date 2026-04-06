@@ -1,0 +1,15 @@
+C:\Users\Maarifa 1\Desktop\net-core-basic\Csharp101\ForLoop\bin\Debug\net10.0\ForLoop.exe
+C:\Users\Maarifa 1\Desktop\net-core-basic\Csharp101\ForLoop\bin\Debug\net10.0\ForLoop.deps.json
+C:\Users\Maarifa 1\Desktop\net-core-basic\Csharp101\ForLoop\bin\Debug\net10.0\ForLoop.runtimeconfig.json
+C:\Users\Maarifa 1\Desktop\net-core-basic\Csharp101\ForLoop\bin\Debug\net10.0\ForLoop.dll
+C:\Users\Maarifa 1\Desktop\net-core-basic\Csharp101\ForLoop\bin\Debug\net10.0\ForLoop.pdb
+C:\Users\Maarifa 1\Desktop\net-core-basic\Csharp101\ForLoop\obj\Debug\net10.0\ForLoop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Maarifa 1\Desktop\net-core-basic\Csharp101\ForLoop\obj\Debug\net10.0\ForLoop.AssemblyInfoInputs.cache
+C:\Users\Maarifa 1\Desktop\net-core-basic\Csharp101\ForLoop\obj\Debug\net10.0\ForLoop.AssemblyInfo.cs
+C:\Users\Maarifa 1\Desktop\net-core-basic\Csharp101\ForLoop\obj\Debug\net10.0\ForLoop.csproj.CoreCompileInputs.cache
+C:\Users\Maarifa 1\Desktop\net-core-basic\Csharp101\ForLoop\obj\Debug\net10.0\ForLoop.sourcelink.json
+C:\Users\Maarifa 1\Desktop\net-core-basic\Csharp101\ForLoop\obj\Debug\net10.0\ForLoop.dll
+C:\Users\Maarifa 1\Desktop\net-core-basic\Csharp101\ForLoop\obj\Debug\net10.0\refint\ForLoop.dll
+C:\Users\Maarifa 1\Desktop\net-core-basic\Csharp101\ForLoop\obj\Debug\net10.0\ForLoop.pdb
+C:\Users\Maarifa 1\Desktop\net-core-basic\Csharp101\ForLoop\obj\Debug\net10.0\ForLoop.genruntimeconfig.cache
+C:\Users\Maarifa 1\Desktop\net-core-basic\Csharp101\ForLoop\obj\Debug\net10.0\ref\ForLoop.dll
