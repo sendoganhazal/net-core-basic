@@ -1,7 +1,4 @@
-﻿using System;
-using System.Security.Cryptography.X509Certificates;
-
-namespace ForLoop
+﻿namespace ForLoop
 {
     class Program
     {
