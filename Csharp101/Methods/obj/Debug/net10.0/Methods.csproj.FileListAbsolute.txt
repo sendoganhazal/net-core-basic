@@ -1,0 +1,15 @@
+C:\Users\Maarifa 1\Desktop\net-core-basic\Csharp101\Methods\obj\Debug\net10.0\Methods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Maarifa 1\Desktop\net-core-basic\Csharp101\Methods\obj\Debug\net10.0\Methods.AssemblyInfoInputs.cache
+C:\Users\Maarifa 1\Desktop\net-core-basic\Csharp101\Methods\obj\Debug\net10.0\Methods.AssemblyInfo.cs
+C:\Users\Maarifa 1\Desktop\net-core-basic\Csharp101\Methods\obj\Debug\net10.0\Methods.csproj.CoreCompileInputs.cache
+C:\Users\Maarifa 1\Desktop\net-core-basic\Csharp101\Methods\obj\Debug\net10.0\Methods.sourcelink.json
+C:\Users\Maarifa 1\Desktop\net-core-basic\Csharp101\Methods\bin\Debug\net10.0\Methods.exe
+C:\Users\Maarifa 1\Desktop\net-core-basic\Csharp101\Methods\bin\Debug\net10.0\Methods.deps.json
+C:\Users\Maarifa 1\Desktop\net-core-basic\Csharp101\Methods\bin\Debug\net10.0\Methods.runtimeconfig.json
+C:\Users\Maarifa 1\Desktop\net-core-basic\Csharp101\Methods\bin\Debug\net10.0\Methods.dll
+C:\Users\Maarifa 1\Desktop\net-core-basic\Csharp101\Methods\bin\Debug\net10.0\Methods.pdb
+C:\Users\Maarifa 1\Desktop\net-core-basic\Csharp101\Methods\obj\Debug\net10.0\Methods.dll
+C:\Users\Maarifa 1\Desktop\net-core-basic\Csharp101\Methods\obj\Debug\net10.0\refint\Methods.dll
+C:\Users\Maarifa 1\Desktop\net-core-basic\Csharp101\Methods\obj\Debug\net10.0\Methods.pdb
+C:\Users\Maarifa 1\Desktop\net-core-basic\Csharp101\Methods\obj\Debug\net10.0\Methods.genruntimeconfig.cache
+C:\Users\Maarifa 1\Desktop\net-core-basic\Csharp101\Methods\obj\Debug\net10.0\ref\Methods.dll
