@@ -1,0 +1,15 @@
+C:\Users\Maarifa 1\Desktop\net-core-basic\Csharp101\Dictionaries\bin\Debug\net10.0\Dictionaries.exe
+C:\Users\Maarifa 1\Desktop\net-core-basic\Csharp101\Dictionaries\bin\Debug\net10.0\Dictionaries.deps.json
+C:\Users\Maarifa 1\Desktop\net-core-basic\Csharp101\Dictionaries\bin\Debug\net10.0\Dictionaries.runtimeconfig.json
+C:\Users\Maarifa 1\Desktop\net-core-basic\Csharp101\Dictionaries\bin\Debug\net10.0\Dictionaries.dll
+C:\Users\Maarifa 1\Desktop\net-core-basic\Csharp101\Dictionaries\bin\Debug\net10.0\Dictionaries.pdb
+C:\Users\Maarifa 1\Desktop\net-core-basic\Csharp101\Dictionaries\obj\Debug\net10.0\Dictionaries.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Maarifa 1\Desktop\net-core-basic\Csharp101\Dictionaries\obj\Debug\net10.0\Dictionaries.AssemblyInfoInputs.cache
+C:\Users\Maarifa 1\Desktop\net-core-basic\Csharp101\Dictionaries\obj\Debug\net10.0\Dictionaries.AssemblyInfo.cs
+C:\Users\Maarifa 1\Desktop\net-core-basic\Csharp101\Dictionaries\obj\Debug\net10.0\Dictionaries.csproj.CoreCompileInputs.cache
+C:\Users\Maarifa 1\Desktop\net-core-basic\Csharp101\Dictionaries\obj\Debug\net10.0\Dictionaries.sourcelink.json
+C:\Users\Maarifa 1\Desktop\net-core-basic\Csharp101\Dictionaries\obj\Debug\net10.0\Dictionaries.dll
+C:\Users\Maarifa 1\Desktop\net-core-basic\Csharp101\Dictionaries\obj\Debug\net10.0\refint\Dictionaries.dll
+C:\Users\Maarifa 1\Desktop\net-core-basic\Csharp101\Dictionaries\obj\Debug\net10.0\Dictionaries.pdb
+C:\Users\Maarifa 1\Desktop\net-core-basic\Csharp101\Dictionaries\obj\Debug\net10.0\Dictionaries.genruntimeconfig.cache
+C:\Users\Maarifa 1\Desktop\net-core-basic\Csharp101\Dictionaries\obj\Debug\net10.0\ref\Dictionaries.dll
