@@ -1,0 +1,15 @@
+C:\Users\Maarifa 1\Desktop\net-core-basic\Csharp101\StringMethods\obj\Debug\net10.0\StringMethods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Maarifa 1\Desktop\net-core-basic\Csharp101\StringMethods\obj\Debug\net10.0\StringMethods.AssemblyInfoInputs.cache
+C:\Users\Maarifa 1\Desktop\net-core-basic\Csharp101\StringMethods\obj\Debug\net10.0\StringMethods.AssemblyInfo.cs
+C:\Users\Maarifa 1\Desktop\net-core-basic\Csharp101\StringMethods\obj\Debug\net10.0\StringMethods.csproj.CoreCompileInputs.cache
+C:\Users\Maarifa 1\Desktop\net-core-basic\Csharp101\StringMethods\obj\Debug\net10.0\StringMethods.sourcelink.json
+C:\Users\Maarifa 1\Desktop\net-core-basic\Csharp101\StringMethods\bin\Debug\net10.0\StringMethods.exe
+C:\Users\Maarifa 1\Desktop\net-core-basic\Csharp101\StringMethods\bin\Debug\net10.0\StringMethods.deps.json
+C:\Users\Maarifa 1\Desktop\net-core-basic\Csharp101\StringMethods\bin\Debug\net10.0\StringMethods.runtimeconfig.json
+C:\Users\Maarifa 1\Desktop\net-core-basic\Csharp101\StringMethods\bin\Debug\net10.0\StringMethods.dll
+C:\Users\Maarifa 1\Desktop\net-core-basic\Csharp101\StringMethods\bin\Debug\net10.0\StringMethods.pdb
+C:\Users\Maarifa 1\Desktop\net-core-basic\Csharp101\StringMethods\obj\Debug\net10.0\StringMethods.dll
+C:\Users\Maarifa 1\Desktop\net-core-basic\Csharp101\StringMethods\obj\Debug\net10.0\refint\StringMethods.dll
+C:\Users\Maarifa 1\Desktop\net-core-basic\Csharp101\StringMethods\obj\Debug\net10.0\StringMethods.pdb
+C:\Users\Maarifa 1\Desktop\net-core-basic\Csharp101\StringMethods\obj\Debug\net10.0\StringMethods.genruntimeconfig.cache
+C:\Users\Maarifa 1\Desktop\net-core-basic\Csharp101\StringMethods\obj\Debug\net10.0\ref\StringMethods.dll
