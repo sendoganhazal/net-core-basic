@@ -1,0 +1,15 @@
+C:\Users\Maarifa 1\Desktop\net-core-basic\Csharp101\DateTimeMaths\bin\Debug\net10.0\DateTimeMaths.exe
+C:\Users\Maarifa 1\Desktop\net-core-basic\Csharp101\DateTimeMaths\bin\Debug\net10.0\DateTimeMaths.deps.json
+C:\Users\Maarifa 1\Desktop\net-core-basic\Csharp101\DateTimeMaths\bin\Debug\net10.0\DateTimeMaths.runtimeconfig.json
+C:\Users\Maarifa 1\Desktop\net-core-basic\Csharp101\DateTimeMaths\bin\Debug\net10.0\DateTimeMaths.dll
+C:\Users\Maarifa 1\Desktop\net-core-basic\Csharp101\DateTimeMaths\bin\Debug\net10.0\DateTimeMaths.pdb
+C:\Users\Maarifa 1\Desktop\net-core-basic\Csharp101\DateTimeMaths\obj\Debug\net10.0\DateTimeMaths.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Maarifa 1\Desktop\net-core-basic\Csharp101\DateTimeMaths\obj\Debug\net10.0\DateTimeMaths.AssemblyInfoInputs.cache
+C:\Users\Maarifa 1\Desktop\net-core-basic\Csharp101\DateTimeMaths\obj\Debug\net10.0\DateTimeMaths.AssemblyInfo.cs
+C:\Users\Maarifa 1\Desktop\net-core-basic\Csharp101\DateTimeMaths\obj\Debug\net10.0\DateTimeMaths.csproj.CoreCompileInputs.cache
+C:\Users\Maarifa 1\Desktop\net-core-basic\Csharp101\DateTimeMaths\obj\Debug\net10.0\DateTimeMaths.sourcelink.json
+C:\Users\Maarifa 1\Desktop\net-core-basic\Csharp101\DateTimeMaths\obj\Debug\net10.0\DateTimeMaths.dll
+C:\Users\Maarifa 1\Desktop\net-core-basic\Csharp101\DateTimeMaths\obj\Debug\net10.0\refint\DateTimeMaths.dll
+C:\Users\Maarifa 1\Desktop\net-core-basic\Csharp101\DateTimeMaths\obj\Debug\net10.0\DateTimeMaths.pdb
+C:\Users\Maarifa 1\Desktop\net-core-basic\Csharp101\DateTimeMaths\obj\Debug\net10.0\DateTimeMaths.genruntimeconfig.cache
+C:\Users\Maarifa 1\Desktop\net-core-basic\Csharp101\DateTimeMaths\obj\Debug\net10.0\ref\DateTimeMaths.dll
