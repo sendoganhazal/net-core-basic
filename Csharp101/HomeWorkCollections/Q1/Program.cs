@@ -68,14 +68,14 @@ namespace Q1
             Console.WriteLine("\n*** Prime Numbers ***");
             foreach (var item in primeNumbers)
             {
-                Console.Write(item + " ");
+                Console.WriteLine(item);
                 totalPrimeNumbers += Convert.ToInt32(item);
             }
 
             Console.WriteLine("\n*** Non-Prime Numbers ***");
             foreach (var item in nonPrimeNumbers)
             {
-                Console.Write(item + " ");
+                Console.WriteLine(item);
                 totalNonPrimeNumbers += Convert.ToInt32(item);
             }
 
