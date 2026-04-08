@@ -1,0 +1,15 @@
+C:\Users\Maarifa 1\Desktop\net-core-basic\Csharp101\Constructors\bin\Debug\net10.0\Constructors.exe
+C:\Users\Maarifa 1\Desktop\net-core-basic\Csharp101\Constructors\bin\Debug\net10.0\Constructors.deps.json
+C:\Users\Maarifa 1\Desktop\net-core-basic\Csharp101\Constructors\bin\Debug\net10.0\Constructors.runtimeconfig.json
+C:\Users\Maarifa 1\Desktop\net-core-basic\Csharp101\Constructors\bin\Debug\net10.0\Constructors.dll
+C:\Users\Maarifa 1\Desktop\net-core-basic\Csharp101\Constructors\bin\Debug\net10.0\Constructors.pdb
+C:\Users\Maarifa 1\Desktop\net-core-basic\Csharp101\Constructors\obj\Debug\net10.0\Constructors.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Maarifa 1\Desktop\net-core-basic\Csharp101\Constructors\obj\Debug\net10.0\Constructors.AssemblyInfoInputs.cache
+C:\Users\Maarifa 1\Desktop\net-core-basic\Csharp101\Constructors\obj\Debug\net10.0\Constructors.AssemblyInfo.cs
+C:\Users\Maarifa 1\Desktop\net-core-basic\Csharp101\Constructors\obj\Debug\net10.0\Constructors.csproj.CoreCompileInputs.cache
+C:\Users\Maarifa 1\Desktop\net-core-basic\Csharp101\Constructors\obj\Debug\net10.0\Constructors.sourcelink.json
+C:\Users\Maarifa 1\Desktop\net-core-basic\Csharp101\Constructors\obj\Debug\net10.0\Constructors.dll
+C:\Users\Maarifa 1\Desktop\net-core-basic\Csharp101\Constructors\obj\Debug\net10.0\refint\Constructors.dll
+C:\Users\Maarifa 1\Desktop\net-core-basic\Csharp101\Constructors\obj\Debug\net10.0\Constructors.pdb
+C:\Users\Maarifa 1\Desktop\net-core-basic\Csharp101\Constructors\obj\Debug\net10.0\Constructors.genruntimeconfig.cache
+C:\Users\Maarifa 1\Desktop\net-core-basic\Csharp101\Constructors\obj\Debug\net10.0\ref\Constructors.dll
