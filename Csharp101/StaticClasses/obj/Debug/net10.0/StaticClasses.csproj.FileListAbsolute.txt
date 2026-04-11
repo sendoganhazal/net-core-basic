@@ -1,0 +1,15 @@
+C:\Users\Maarifa 1\Desktop\net-core-basic\Csharp101\StaticClasses\bin\Debug\net10.0\StaticClasses.exe
+C:\Users\Maarifa 1\Desktop\net-core-basic\Csharp101\StaticClasses\bin\Debug\net10.0\StaticClasses.deps.json
+C:\Users\Maarifa 1\Desktop\net-core-basic\Csharp101\StaticClasses\bin\Debug\net10.0\StaticClasses.runtimeconfig.json
+C:\Users\Maarifa 1\Desktop\net-core-basic\Csharp101\StaticClasses\bin\Debug\net10.0\StaticClasses.dll
+C:\Users\Maarifa 1\Desktop\net-core-basic\Csharp101\StaticClasses\bin\Debug\net10.0\StaticClasses.pdb
+C:\Users\Maarifa 1\Desktop\net-core-basic\Csharp101\StaticClasses\obj\Debug\net10.0\StaticClasses.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Maarifa 1\Desktop\net-core-basic\Csharp101\StaticClasses\obj\Debug\net10.0\StaticClasses.AssemblyInfoInputs.cache
+C:\Users\Maarifa 1\Desktop\net-core-basic\Csharp101\StaticClasses\obj\Debug\net10.0\StaticClasses.AssemblyInfo.cs
+C:\Users\Maarifa 1\Desktop\net-core-basic\Csharp101\StaticClasses\obj\Debug\net10.0\StaticClasses.csproj.CoreCompileInputs.cache
+C:\Users\Maarifa 1\Desktop\net-core-basic\Csharp101\StaticClasses\obj\Debug\net10.0\StaticClasses.sourcelink.json
+C:\Users\Maarifa 1\Desktop\net-core-basic\Csharp101\StaticClasses\obj\Debug\net10.0\StaticClasses.dll
+C:\Users\Maarifa 1\Desktop\net-core-basic\Csharp101\StaticClasses\obj\Debug\net10.0\refint\StaticClasses.dll
+C:\Users\Maarifa 1\Desktop\net-core-basic\Csharp101\StaticClasses\obj\Debug\net10.0\StaticClasses.pdb
+C:\Users\Maarifa 1\Desktop\net-core-basic\Csharp101\StaticClasses\obj\Debug\net10.0\StaticClasses.genruntimeconfig.cache
+C:\Users\Maarifa 1\Desktop\net-core-basic\Csharp101\StaticClasses\obj\Debug\net10.0\ref\StaticClasses.dll
