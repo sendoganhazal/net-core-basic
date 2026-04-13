@@ -1,0 +1,15 @@
+C:\Users\Maarifa 1\Desktop\net-core-basic\CsharpProjects\Easy\Average\obj\Debug\net10.0\Average.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Maarifa 1\Desktop\net-core-basic\CsharpProjects\Easy\Average\obj\Debug\net10.0\Average.AssemblyInfoInputs.cache
+C:\Users\Maarifa 1\Desktop\net-core-basic\CsharpProjects\Easy\Average\obj\Debug\net10.0\Average.AssemblyInfo.cs
+C:\Users\Maarifa 1\Desktop\net-core-basic\CsharpProjects\Easy\Average\obj\Debug\net10.0\Average.csproj.CoreCompileInputs.cache
+C:\Users\Maarifa 1\Desktop\net-core-basic\CsharpProjects\Easy\Average\obj\Debug\net10.0\Average.sourcelink.json
+C:\Users\Maarifa 1\Desktop\net-core-basic\CsharpProjects\Easy\Average\bin\Debug\net10.0\Average.exe
+C:\Users\Maarifa 1\Desktop\net-core-basic\CsharpProjects\Easy\Average\bin\Debug\net10.0\Average.deps.json
+C:\Users\Maarifa 1\Desktop\net-core-basic\CsharpProjects\Easy\Average\bin\Debug\net10.0\Average.runtimeconfig.json
+C:\Users\Maarifa 1\Desktop\net-core-basic\CsharpProjects\Easy\Average\bin\Debug\net10.0\Average.dll
+C:\Users\Maarifa 1\Desktop\net-core-basic\CsharpProjects\Easy\Average\bin\Debug\net10.0\Average.pdb
+C:\Users\Maarifa 1\Desktop\net-core-basic\CsharpProjects\Easy\Average\obj\Debug\net10.0\Average.dll
+C:\Users\Maarifa 1\Desktop\net-core-basic\CsharpProjects\Easy\Average\obj\Debug\net10.0\refint\Average.dll
+C:\Users\Maarifa 1\Desktop\net-core-basic\CsharpProjects\Easy\Average\obj\Debug\net10.0\Average.pdb
+C:\Users\Maarifa 1\Desktop\net-core-basic\CsharpProjects\Easy\Average\obj\Debug\net10.0\Average.genruntimeconfig.cache
+C:\Users\Maarifa 1\Desktop\net-core-basic\CsharpProjects\Easy\Average\obj\Debug\net10.0\ref\Average.dll
