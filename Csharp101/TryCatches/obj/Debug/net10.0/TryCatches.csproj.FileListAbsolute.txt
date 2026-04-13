@@ -1,0 +1,15 @@
+C:\Users\Maarifa 1\Desktop\net-core-basic\Csharp101\TryCatches\bin\Debug\net10.0\TryCatches.exe
+C:\Users\Maarifa 1\Desktop\net-core-basic\Csharp101\TryCatches\bin\Debug\net10.0\TryCatches.deps.json
+C:\Users\Maarifa 1\Desktop\net-core-basic\Csharp101\TryCatches\bin\Debug\net10.0\TryCatches.runtimeconfig.json
+C:\Users\Maarifa 1\Desktop\net-core-basic\Csharp101\TryCatches\bin\Debug\net10.0\TryCatches.dll
+C:\Users\Maarifa 1\Desktop\net-core-basic\Csharp101\TryCatches\bin\Debug\net10.0\TryCatches.pdb
+C:\Users\Maarifa 1\Desktop\net-core-basic\Csharp101\TryCatches\obj\Debug\net10.0\TryCatches.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Maarifa 1\Desktop\net-core-basic\Csharp101\TryCatches\obj\Debug\net10.0\TryCatches.AssemblyInfoInputs.cache
+C:\Users\Maarifa 1\Desktop\net-core-basic\Csharp101\TryCatches\obj\Debug\net10.0\TryCatches.AssemblyInfo.cs
+C:\Users\Maarifa 1\Desktop\net-core-basic\Csharp101\TryCatches\obj\Debug\net10.0\TryCatches.csproj.CoreCompileInputs.cache
+C:\Users\Maarifa 1\Desktop\net-core-basic\Csharp101\TryCatches\obj\Debug\net10.0\TryCatches.sourcelink.json
+C:\Users\Maarifa 1\Desktop\net-core-basic\Csharp101\TryCatches\obj\Debug\net10.0\TryCatches.dll
+C:\Users\Maarifa 1\Desktop\net-core-basic\Csharp101\TryCatches\obj\Debug\net10.0\refint\TryCatches.dll
+C:\Users\Maarifa 1\Desktop\net-core-basic\Csharp101\TryCatches\obj\Debug\net10.0\TryCatches.pdb
+C:\Users\Maarifa 1\Desktop\net-core-basic\Csharp101\TryCatches\obj\Debug\net10.0\TryCatches.genruntimeconfig.cache
+C:\Users\Maarifa 1\Desktop\net-core-basic\Csharp101\TryCatches\obj\Debug\net10.0\ref\TryCatches.dll
