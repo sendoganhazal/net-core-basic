@@ -1,0 +1,15 @@
+C:\Users\Maarifa 1\Desktop\net-core-basic\CsharpProjects\Easy\Triangle\bin\Debug\net10.0\Triangle.exe
+C:\Users\Maarifa 1\Desktop\net-core-basic\CsharpProjects\Easy\Triangle\bin\Debug\net10.0\Triangle.deps.json
+C:\Users\Maarifa 1\Desktop\net-core-basic\CsharpProjects\Easy\Triangle\bin\Debug\net10.0\Triangle.runtimeconfig.json
+C:\Users\Maarifa 1\Desktop\net-core-basic\CsharpProjects\Easy\Triangle\bin\Debug\net10.0\Triangle.dll
+C:\Users\Maarifa 1\Desktop\net-core-basic\CsharpProjects\Easy\Triangle\bin\Debug\net10.0\Triangle.pdb
+C:\Users\Maarifa 1\Desktop\net-core-basic\CsharpProjects\Easy\Triangle\obj\Debug\net10.0\Triangle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Maarifa 1\Desktop\net-core-basic\CsharpProjects\Easy\Triangle\obj\Debug\net10.0\Triangle.AssemblyInfoInputs.cache
+C:\Users\Maarifa 1\Desktop\net-core-basic\CsharpProjects\Easy\Triangle\obj\Debug\net10.0\Triangle.AssemblyInfo.cs
+C:\Users\Maarifa 1\Desktop\net-core-basic\CsharpProjects\Easy\Triangle\obj\Debug\net10.0\Triangle.csproj.CoreCompileInputs.cache
+C:\Users\Maarifa 1\Desktop\net-core-basic\CsharpProjects\Easy\Triangle\obj\Debug\net10.0\Triangle.sourcelink.json
+C:\Users\Maarifa 1\Desktop\net-core-basic\CsharpProjects\Easy\Triangle\obj\Debug\net10.0\Triangle.dll
+C:\Users\Maarifa 1\Desktop\net-core-basic\CsharpProjects\Easy\Triangle\obj\Debug\net10.0\refint\Triangle.dll
+C:\Users\Maarifa 1\Desktop\net-core-basic\CsharpProjects\Easy\Triangle\obj\Debug\net10.0\Triangle.pdb
+C:\Users\Maarifa 1\Desktop\net-core-basic\CsharpProjects\Easy\Triangle\obj\Debug\net10.0\Triangle.genruntimeconfig.cache
+C:\Users\Maarifa 1\Desktop\net-core-basic\CsharpProjects\Easy\Triangle\obj\Debug\net10.0\ref\Triangle.dll
