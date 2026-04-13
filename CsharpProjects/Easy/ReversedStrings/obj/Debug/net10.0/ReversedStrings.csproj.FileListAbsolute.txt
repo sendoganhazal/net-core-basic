@@ -1,0 +1,15 @@
+C:\Users\Maarifa 1\Desktop\net-core-basic\CsharpProjects\Easy\ReversedStrings\bin\Debug\net10.0\ReversedStrings.exe
+C:\Users\Maarifa 1\Desktop\net-core-basic\CsharpProjects\Easy\ReversedStrings\bin\Debug\net10.0\ReversedStrings.deps.json
+C:\Users\Maarifa 1\Desktop\net-core-basic\CsharpProjects\Easy\ReversedStrings\bin\Debug\net10.0\ReversedStrings.runtimeconfig.json
+C:\Users\Maarifa 1\Desktop\net-core-basic\CsharpProjects\Easy\ReversedStrings\bin\Debug\net10.0\ReversedStrings.dll
+C:\Users\Maarifa 1\Desktop\net-core-basic\CsharpProjects\Easy\ReversedStrings\bin\Debug\net10.0\ReversedStrings.pdb
+C:\Users\Maarifa 1\Desktop\net-core-basic\CsharpProjects\Easy\ReversedStrings\obj\Debug\net10.0\ReversedStrings.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Maarifa 1\Desktop\net-core-basic\CsharpProjects\Easy\ReversedStrings\obj\Debug\net10.0\ReversedStrings.AssemblyInfoInputs.cache
+C:\Users\Maarifa 1\Desktop\net-core-basic\CsharpProjects\Easy\ReversedStrings\obj\Debug\net10.0\ReversedStrings.AssemblyInfo.cs
+C:\Users\Maarifa 1\Desktop\net-core-basic\CsharpProjects\Easy\ReversedStrings\obj\Debug\net10.0\ReversedStrings.csproj.CoreCompileInputs.cache
+C:\Users\Maarifa 1\Desktop\net-core-basic\CsharpProjects\Easy\ReversedStrings\obj\Debug\net10.0\ReversedStrings.sourcelink.json
+C:\Users\Maarifa 1\Desktop\net-core-basic\CsharpProjects\Easy\ReversedStrings\obj\Debug\net10.0\ReversedStrings.dll
+C:\Users\Maarifa 1\Desktop\net-core-basic\CsharpProjects\Easy\ReversedStrings\obj\Debug\net10.0\refint\ReversedStrings.dll
+C:\Users\Maarifa 1\Desktop\net-core-basic\CsharpProjects\Easy\ReversedStrings\obj\Debug\net10.0\ReversedStrings.pdb
+C:\Users\Maarifa 1\Desktop\net-core-basic\CsharpProjects\Easy\ReversedStrings\obj\Debug\net10.0\ReversedStrings.genruntimeconfig.cache
+C:\Users\Maarifa 1\Desktop\net-core-basic\CsharpProjects\Easy\ReversedStrings\obj\Debug\net10.0\ref\ReversedStrings.dll
