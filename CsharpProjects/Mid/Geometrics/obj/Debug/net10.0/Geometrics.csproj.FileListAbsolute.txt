@@ -1,0 +1,15 @@
+C:\Users\Maarifa 1\Desktop\net-core-basic\CsharpProjects\Mid\Geometrics\obj\Debug\net10.0\Geometrics.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Maarifa 1\Desktop\net-core-basic\CsharpProjects\Mid\Geometrics\obj\Debug\net10.0\Geometrics.AssemblyInfoInputs.cache
+C:\Users\Maarifa 1\Desktop\net-core-basic\CsharpProjects\Mid\Geometrics\obj\Debug\net10.0\Geometrics.AssemblyInfo.cs
+C:\Users\Maarifa 1\Desktop\net-core-basic\CsharpProjects\Mid\Geometrics\obj\Debug\net10.0\Geometrics.csproj.CoreCompileInputs.cache
+C:\Users\Maarifa 1\Desktop\net-core-basic\CsharpProjects\Mid\Geometrics\obj\Debug\net10.0\Geometrics.sourcelink.json
+C:\Users\Maarifa 1\Desktop\net-core-basic\CsharpProjects\Mid\Geometrics\bin\Debug\net10.0\Geometrics.exe
+C:\Users\Maarifa 1\Desktop\net-core-basic\CsharpProjects\Mid\Geometrics\bin\Debug\net10.0\Geometrics.deps.json
+C:\Users\Maarifa 1\Desktop\net-core-basic\CsharpProjects\Mid\Geometrics\bin\Debug\net10.0\Geometrics.runtimeconfig.json
+C:\Users\Maarifa 1\Desktop\net-core-basic\CsharpProjects\Mid\Geometrics\bin\Debug\net10.0\Geometrics.dll
+C:\Users\Maarifa 1\Desktop\net-core-basic\CsharpProjects\Mid\Geometrics\bin\Debug\net10.0\Geometrics.pdb
+C:\Users\Maarifa 1\Desktop\net-core-basic\CsharpProjects\Mid\Geometrics\obj\Debug\net10.0\Geometrics.dll
+C:\Users\Maarifa 1\Desktop\net-core-basic\CsharpProjects\Mid\Geometrics\obj\Debug\net10.0\refint\Geometrics.dll
+C:\Users\Maarifa 1\Desktop\net-core-basic\CsharpProjects\Mid\Geometrics\obj\Debug\net10.0\Geometrics.pdb
+C:\Users\Maarifa 1\Desktop\net-core-basic\CsharpProjects\Mid\Geometrics\obj\Debug\net10.0\Geometrics.genruntimeconfig.cache
+C:\Users\Maarifa 1\Desktop\net-core-basic\CsharpProjects\Mid\Geometrics\obj\Debug\net10.0\ref\Geometrics.dll
