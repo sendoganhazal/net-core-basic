@@ -1,0 +1,15 @@
+C:\Users\Maarifa 1\Desktop\net-core-basic\CsharpProjects\Mid\StringReverse\bin\Debug\net10.0\StringReverse.exe
+C:\Users\Maarifa 1\Desktop\net-core-basic\CsharpProjects\Mid\StringReverse\bin\Debug\net10.0\StringReverse.deps.json
+C:\Users\Maarifa 1\Desktop\net-core-basic\CsharpProjects\Mid\StringReverse\bin\Debug\net10.0\StringReverse.runtimeconfig.json
+C:\Users\Maarifa 1\Desktop\net-core-basic\CsharpProjects\Mid\StringReverse\bin\Debug\net10.0\StringReverse.dll
+C:\Users\Maarifa 1\Desktop\net-core-basic\CsharpProjects\Mid\StringReverse\bin\Debug\net10.0\StringReverse.pdb
+C:\Users\Maarifa 1\Desktop\net-core-basic\CsharpProjects\Mid\StringReverse\obj\Debug\net10.0\StringReverse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Maarifa 1\Desktop\net-core-basic\CsharpProjects\Mid\StringReverse\obj\Debug\net10.0\StringReverse.AssemblyInfoInputs.cache
+C:\Users\Maarifa 1\Desktop\net-core-basic\CsharpProjects\Mid\StringReverse\obj\Debug\net10.0\StringReverse.AssemblyInfo.cs
+C:\Users\Maarifa 1\Desktop\net-core-basic\CsharpProjects\Mid\StringReverse\obj\Debug\net10.0\StringReverse.csproj.CoreCompileInputs.cache
+C:\Users\Maarifa 1\Desktop\net-core-basic\CsharpProjects\Mid\StringReverse\obj\Debug\net10.0\StringReverse.sourcelink.json
+C:\Users\Maarifa 1\Desktop\net-core-basic\CsharpProjects\Mid\StringReverse\obj\Debug\net10.0\StringReverse.dll
+C:\Users\Maarifa 1\Desktop\net-core-basic\CsharpProjects\Mid\StringReverse\obj\Debug\net10.0\refint\StringReverse.dll
+C:\Users\Maarifa 1\Desktop\net-core-basic\CsharpProjects\Mid\StringReverse\obj\Debug\net10.0\StringReverse.pdb
+C:\Users\Maarifa 1\Desktop\net-core-basic\CsharpProjects\Mid\StringReverse\obj\Debug\net10.0\StringReverse.genruntimeconfig.cache
+C:\Users\Maarifa 1\Desktop\net-core-basic\CsharpProjects\Mid\StringReverse\obj\Debug\net10.0\ref\StringReverse.dll
