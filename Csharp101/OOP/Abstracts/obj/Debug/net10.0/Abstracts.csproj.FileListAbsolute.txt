@@ -1,0 +1,15 @@
+C:\Users\Maarifa 1\Desktop\net-core-basic\Csharp101\OOP\Abstracts\bin\Debug\net10.0\Abstracts.exe
+C:\Users\Maarifa 1\Desktop\net-core-basic\Csharp101\OOP\Abstracts\bin\Debug\net10.0\Abstracts.deps.json
+C:\Users\Maarifa 1\Desktop\net-core-basic\Csharp101\OOP\Abstracts\bin\Debug\net10.0\Abstracts.runtimeconfig.json
+C:\Users\Maarifa 1\Desktop\net-core-basic\Csharp101\OOP\Abstracts\bin\Debug\net10.0\Abstracts.dll
+C:\Users\Maarifa 1\Desktop\net-core-basic\Csharp101\OOP\Abstracts\bin\Debug\net10.0\Abstracts.pdb
+C:\Users\Maarifa 1\Desktop\net-core-basic\Csharp101\OOP\Abstracts\obj\Debug\net10.0\Abstracts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Maarifa 1\Desktop\net-core-basic\Csharp101\OOP\Abstracts\obj\Debug\net10.0\Abstracts.AssemblyInfoInputs.cache
+C:\Users\Maarifa 1\Desktop\net-core-basic\Csharp101\OOP\Abstracts\obj\Debug\net10.0\Abstracts.AssemblyInfo.cs
+C:\Users\Maarifa 1\Desktop\net-core-basic\Csharp101\OOP\Abstracts\obj\Debug\net10.0\Abstracts.csproj.CoreCompileInputs.cache
+C:\Users\Maarifa 1\Desktop\net-core-basic\Csharp101\OOP\Abstracts\obj\Debug\net10.0\Abstracts.sourcelink.json
+C:\Users\Maarifa 1\Desktop\net-core-basic\Csharp101\OOP\Abstracts\obj\Debug\net10.0\Abstracts.dll
+C:\Users\Maarifa 1\Desktop\net-core-basic\Csharp101\OOP\Abstracts\obj\Debug\net10.0\refint\Abstracts.dll
+C:\Users\Maarifa 1\Desktop\net-core-basic\Csharp101\OOP\Abstracts\obj\Debug\net10.0\Abstracts.pdb
+C:\Users\Maarifa 1\Desktop\net-core-basic\Csharp101\OOP\Abstracts\obj\Debug\net10.0\Abstracts.genruntimeconfig.cache
+C:\Users\Maarifa 1\Desktop\net-core-basic\Csharp101\OOP\Abstracts\obj\Debug\net10.0\ref\Abstracts.dll
