@@ -1,0 +1,15 @@
+C:\Users\Maarifa 1\Desktop\net-core-basic\CsharpProjects\Mid\Letters\bin\Debug\net10.0\Letters.exe
+C:\Users\Maarifa 1\Desktop\net-core-basic\CsharpProjects\Mid\Letters\bin\Debug\net10.0\Letters.deps.json
+C:\Users\Maarifa 1\Desktop\net-core-basic\CsharpProjects\Mid\Letters\bin\Debug\net10.0\Letters.runtimeconfig.json
+C:\Users\Maarifa 1\Desktop\net-core-basic\CsharpProjects\Mid\Letters\bin\Debug\net10.0\Letters.dll
+C:\Users\Maarifa 1\Desktop\net-core-basic\CsharpProjects\Mid\Letters\bin\Debug\net10.0\Letters.pdb
+C:\Users\Maarifa 1\Desktop\net-core-basic\CsharpProjects\Mid\Letters\obj\Debug\net10.0\Letters.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Maarifa 1\Desktop\net-core-basic\CsharpProjects\Mid\Letters\obj\Debug\net10.0\Letters.AssemblyInfoInputs.cache
+C:\Users\Maarifa 1\Desktop\net-core-basic\CsharpProjects\Mid\Letters\obj\Debug\net10.0\Letters.AssemblyInfo.cs
+C:\Users\Maarifa 1\Desktop\net-core-basic\CsharpProjects\Mid\Letters\obj\Debug\net10.0\Letters.csproj.CoreCompileInputs.cache
+C:\Users\Maarifa 1\Desktop\net-core-basic\CsharpProjects\Mid\Letters\obj\Debug\net10.0\Letters.sourcelink.json
+C:\Users\Maarifa 1\Desktop\net-core-basic\CsharpProjects\Mid\Letters\obj\Debug\net10.0\Letters.dll
+C:\Users\Maarifa 1\Desktop\net-core-basic\CsharpProjects\Mid\Letters\obj\Debug\net10.0\refint\Letters.dll
+C:\Users\Maarifa 1\Desktop\net-core-basic\CsharpProjects\Mid\Letters\obj\Debug\net10.0\Letters.pdb
+C:\Users\Maarifa 1\Desktop\net-core-basic\CsharpProjects\Mid\Letters\obj\Debug\net10.0\Letters.genruntimeconfig.cache
+C:\Users\Maarifa 1\Desktop\net-core-basic\CsharpProjects\Mid\Letters\obj\Debug\net10.0\ref\Letters.dll
