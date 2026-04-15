@@ -1,0 +1,15 @@
+C:\Users\Maarifa 1\Desktop\net-core-basic\Csharp101\OOP\InterfaceExample\obj\Debug\net10.0\InterfaceExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Maarifa 1\Desktop\net-core-basic\Csharp101\OOP\InterfaceExample\obj\Debug\net10.0\InterfaceExample.AssemblyInfoInputs.cache
+C:\Users\Maarifa 1\Desktop\net-core-basic\Csharp101\OOP\InterfaceExample\obj\Debug\net10.0\InterfaceExample.AssemblyInfo.cs
+C:\Users\Maarifa 1\Desktop\net-core-basic\Csharp101\OOP\InterfaceExample\obj\Debug\net10.0\InterfaceExample.csproj.CoreCompileInputs.cache
+C:\Users\Maarifa 1\Desktop\net-core-basic\Csharp101\OOP\InterfaceExample\obj\Debug\net10.0\InterfaceExample.sourcelink.json
+C:\Users\Maarifa 1\Desktop\net-core-basic\Csharp101\OOP\InterfaceExample\bin\Debug\net10.0\InterfaceExample.exe
+C:\Users\Maarifa 1\Desktop\net-core-basic\Csharp101\OOP\InterfaceExample\bin\Debug\net10.0\InterfaceExample.deps.json
+C:\Users\Maarifa 1\Desktop\net-core-basic\Csharp101\OOP\InterfaceExample\bin\Debug\net10.0\InterfaceExample.runtimeconfig.json
+C:\Users\Maarifa 1\Desktop\net-core-basic\Csharp101\OOP\InterfaceExample\bin\Debug\net10.0\InterfaceExample.dll
+C:\Users\Maarifa 1\Desktop\net-core-basic\Csharp101\OOP\InterfaceExample\bin\Debug\net10.0\InterfaceExample.pdb
+C:\Users\Maarifa 1\Desktop\net-core-basic\Csharp101\OOP\InterfaceExample\obj\Debug\net10.0\InterfaceExample.dll
+C:\Users\Maarifa 1\Desktop\net-core-basic\Csharp101\OOP\InterfaceExample\obj\Debug\net10.0\refint\InterfaceExample.dll
+C:\Users\Maarifa 1\Desktop\net-core-basic\Csharp101\OOP\InterfaceExample\obj\Debug\net10.0\InterfaceExample.pdb
+C:\Users\Maarifa 1\Desktop\net-core-basic\Csharp101\OOP\InterfaceExample\obj\Debug\net10.0\InterfaceExample.genruntimeconfig.cache
+C:\Users\Maarifa 1\Desktop\net-core-basic\Csharp101\OOP\InterfaceExample\obj\Debug\net10.0\ref\InterfaceExample.dll
