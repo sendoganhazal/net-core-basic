@@ -1,0 +1,15 @@
+C:\Users\Maarifa 1\Desktop\net-core-basic\CsharpProjects\Mid\AbsSqr\obj\Debug\net10.0\AbsSqr.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Maarifa 1\Desktop\net-core-basic\CsharpProjects\Mid\AbsSqr\obj\Debug\net10.0\AbsSqr.AssemblyInfoInputs.cache
+C:\Users\Maarifa 1\Desktop\net-core-basic\CsharpProjects\Mid\AbsSqr\obj\Debug\net10.0\AbsSqr.AssemblyInfo.cs
+C:\Users\Maarifa 1\Desktop\net-core-basic\CsharpProjects\Mid\AbsSqr\obj\Debug\net10.0\AbsSqr.csproj.CoreCompileInputs.cache
+C:\Users\Maarifa 1\Desktop\net-core-basic\CsharpProjects\Mid\AbsSqr\obj\Debug\net10.0\AbsSqr.sourcelink.json
+C:\Users\Maarifa 1\Desktop\net-core-basic\CsharpProjects\Mid\AbsSqr\bin\Debug\net10.0\AbsSqr.exe
+C:\Users\Maarifa 1\Desktop\net-core-basic\CsharpProjects\Mid\AbsSqr\bin\Debug\net10.0\AbsSqr.deps.json
+C:\Users\Maarifa 1\Desktop\net-core-basic\CsharpProjects\Mid\AbsSqr\bin\Debug\net10.0\AbsSqr.runtimeconfig.json
+C:\Users\Maarifa 1\Desktop\net-core-basic\CsharpProjects\Mid\AbsSqr\bin\Debug\net10.0\AbsSqr.dll
+C:\Users\Maarifa 1\Desktop\net-core-basic\CsharpProjects\Mid\AbsSqr\bin\Debug\net10.0\AbsSqr.pdb
+C:\Users\Maarifa 1\Desktop\net-core-basic\CsharpProjects\Mid\AbsSqr\obj\Debug\net10.0\AbsSqr.dll
+C:\Users\Maarifa 1\Desktop\net-core-basic\CsharpProjects\Mid\AbsSqr\obj\Debug\net10.0\refint\AbsSqr.dll
+C:\Users\Maarifa 1\Desktop\net-core-basic\CsharpProjects\Mid\AbsSqr\obj\Debug\net10.0\AbsSqr.pdb
+C:\Users\Maarifa 1\Desktop\net-core-basic\CsharpProjects\Mid\AbsSqr\obj\Debug\net10.0\AbsSqr.genruntimeconfig.cache
+C:\Users\Maarifa 1\Desktop\net-core-basic\CsharpProjects\Mid\AbsSqr\obj\Debug\net10.0\ref\AbsSqr.dll
