@@ -10,12 +10,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("Variables")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("VotingApp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9c8852b192a10082356d7ff555cfa48a676088f5")]
-[assembly: System.Reflection.AssemblyProductAttribute("Variables")]
-[assembly: System.Reflection.AssemblyTitleAttribute("Variables")]
+[assembly: System.Reflection.AssemblyProductAttribute("VotingApp")]
+[assembly: System.Reflection.AssemblyTitleAttribute("VotingApp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // MSBuild WriteCodeFragment sınıfı tarafından oluşturuldu.
